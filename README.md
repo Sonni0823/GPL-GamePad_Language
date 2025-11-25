@@ -1,2 +1,2 @@
-# GPL-GamePad-Language
-Gamepad를 이용하여 코딩하기
+# 🎮GPL-GamePad-Language
+Gamepad를 이용한 Language
